@@ -54,7 +54,7 @@ This document explores various clustering techniques, ranging from foundational 
 
 ## **i) Audio Clustering with ImageBind LLM Embeddings**
 - **Description**: Applies ImageBind embeddings to cluster audio data. Focuses on leveraging pretrained multimodal models for audio feature extraction and clustering.
-- **Notebook**: [Colab Link](https://colab.research.google.com/drive/1pNKRG4TP7Rkw_05eWNQJ87aQf1RLj-js?usp=sharing)
+- **Notebook**: [Colab Link](https://colab.research.google.com/drive/13NNzZWrv_XEU9QrUfg0-3iwD6QBK5xuk?usp=sharing)
 
 ---
 
